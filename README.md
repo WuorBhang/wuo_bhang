@@ -88,7 +88,7 @@ The site will be available at [http://localhost:5173](http://localhost:5173)
 
 ## 🌐 Live Demo
 
-👉 [Visit My Live Portfolio](https://wuorbhang.vercel.app/)
+👉 [Visit My Live Portfolio](https://wuo-bhang.vercel.app)
 
 ---
 
