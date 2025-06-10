@@ -69,7 +69,7 @@ git clone https://github.com/WuorBhang/wuo_bhang.git
 ### Step 2: Navigate to the project folder
 
 ```bash
-cd wuor_bhang
+cd wuo_bhang
 ```
 
 ### Step 3: Install dependencies
